@@ -30,6 +30,25 @@ This project is part of the **Trademarkia assignment**, aimed at building a **Do
 - `Dockerfile`: Configuration file for building the Docker image.
 - `requirements.txt`: Python dependencies required for the project.
 
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/d89284ba-5d6a-41b5-b05b-db701c4ace84)
+
+Result 1
+Content: "DeepMind's new AI model can predict the structure of almost every known protein
+https://www.nature.com/articles/d41586-022-02083-2"
+Score: 0.8234
+
+Result 2
+Content: "Google's AI Test Kitchen lets you demo its latest language model
+https://techcrunch.com/2022/08/02/googles-ai-test-kitchen-lets-you-demo-its-latest-language-model/"
+Score: 0.7856
+
+Result 3
+Content: "Meta's new AI can turn text prompts into videos
+https://about.fb.com/news/2022/09/metas-ai-powered-text-to-video-generator/"
+Score: 0.7321
+
+
 ## How to Deploy
 
 ### Prerequisites:
